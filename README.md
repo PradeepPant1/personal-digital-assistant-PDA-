@@ -2,6 +2,7 @@
 This is a voice controlled pda project developed on Raspberry Pi 3.
 
 By taking the voice commands from a user it can perform following task:
+
 -->Play music from youtube, ganna.com.
 
 -->Can tell weather, meaning, synonym, antonym etc.
