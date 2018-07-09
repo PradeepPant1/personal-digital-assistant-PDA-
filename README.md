@@ -17,5 +17,7 @@ For home automation rpi is connected to arduino via bluetooth & arduino is conne
 To make a call arduino is connected to GSM module.
 
 Project is done in group of 2:
+
 Pradeep Pant(Myself).
+
 Rishabh Narula.
