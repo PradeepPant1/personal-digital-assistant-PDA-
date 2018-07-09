@@ -16,4 +16,6 @@ By taking the voice commands from a user it can perform following task:
 For home automation rpi is connected to arduino via bluetooth & arduino is connected to a bulb using relay module. 
 To make a call arduino is connected to GSM module.
 
-
+Project is done in group of 2:
+Pradeep Pant(Myself).
+Rishabh Narula.
